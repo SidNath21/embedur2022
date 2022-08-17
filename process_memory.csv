@@ -1,0 +1,10 @@
+Process,Initial Memory (kB),Final Memory (kB)
+hostapd,2704,2728
+sdcsupp,4964,4960
+sdcsupp,4716,4700
+hostapd,3360,3372
+ieee1905_transport,5516,5356
+beerocks_controller,10408,10716
+beerocks_agent,11616,11404
+beerocks_fronthaul,8384,8544
+beerocks_fronthaul,8672,8868

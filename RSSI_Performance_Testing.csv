@@ -1,0 +1,6 @@
+RSSI Desired,RSSI Actual,Downstream Bandwidth,Downstream Jitter ,Downstream Packet Loss,Upstream Bandwidth,Upstream Jitter,Upstream Packet Loss
+-55,-53,19.8,4.594,28%,13.6,2.778,0.05%
+-60,-60,19.8,8.27,29%,10.3,4.597,0.22%
+-65,-65,19.8,8.2,37%,11.4,6.459,0.40%
+-70,-70,19.8,8.257,26%,10.4,4.446,0.38%
+-75,-73,19.8,15.972,30%,8.87,5.411,0.67%
